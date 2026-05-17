@@ -1,5 +1,6 @@
 import sys
 import os
+# v1.0.1 - pipeline test update
 
 from data_simulator   import BearingSimulator
 from ml_model         import BearingHealthModel
